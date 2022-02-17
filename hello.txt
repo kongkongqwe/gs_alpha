@@ -1,3 +1,5 @@
+demo1's first push
+pspspsps
 hello git
 hello git
 hello git
@@ -18,7 +20,10 @@ i know how to git pull yee!!
 next i will do the second git pull test
 this world is dark and full of grid 
 !!!!! know ,clone test was done , i will do the gama push test!!!!
+final test
+dadada
 final test 
 hahhhahah
 final test 01
 other manmber edit test
+
